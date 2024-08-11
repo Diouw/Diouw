@@ -6,7 +6,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=highcontrast" 
+    srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=github-light" 
     media="(prefers-color-scheme: light)"
   />
   <img 
