@@ -1,17 +1,21 @@
-## Olá! Bem vindo ao meu parquinho digital!
-
-<!--srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=highcontrast"
--->
+## Olá! Bem-vindo ao meu parquinho digital!
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=aura_dark"
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=aura_dark" 
+    media="(prefers-color-scheme: dark)"
   />
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=highcontrast" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Diouw&show_icons=true&theme=highcontrast" 
+    alt="GitHub Stats"
+  />
 </picture>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diouw&layout=compact&theme=aura_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diouw&layout=compact&theme=aura_dark)
 
 
 <!--
