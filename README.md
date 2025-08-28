@@ -25,7 +25,7 @@ Programador web (JavaScript) — apps, integrações e automações em Zoho/Delu
 
 
 
-<!-- TROFÉUS (centralizado, 1 linha, excluindo Followers/Issues/PullRequest/Stars) -->
+<!-- TROFÉUS (centralizado, 1 linha, excluindo Followers/Issues/PullRequest/Stars) 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -34,7 +34,7 @@ Programador web (JavaScript) — apps, integrações e automações em Zoho/Delu
          src="https://github-profile-trophy.vercel.app/?username=Diouw&theme=flat&no-frame=true&no-bg=true&row=1&column=-1&margin-w=10&title=-Followers,-Issues,-PullRequest,-Stars" />
   </picture>
 </div>
-
+-->
 
 
 
